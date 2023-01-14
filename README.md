@@ -1,10 +1,11 @@
 # todolist
 
-A new Flutter project.
+A simple ToDo list app made using flutter with local database storage facility.
 
 ## Getting Started
+![image](https://user-images.githubusercontent.com/66496371/212470411-38f71afa-1617-4999-b0f2-7da70cb62921.png)
 
-This project is a starting point for a Flutter application.
+
 
 A few resources to get you started if this is your first Flutter project:
 
